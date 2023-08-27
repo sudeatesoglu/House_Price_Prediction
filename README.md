@@ -1,4 +1,5 @@
 # HOUSE PRICE PREDICTION 🏠💲
+![Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1867187">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1867187">Pixabay</a>](https://github.com/sudeatesoglu/House_Price_Prediction_with_Regression/assets/106230756/6acc4b27-0e7c-4312-a64d-1b4f0233078b)
 
 ## Story of Dataset
 A model is requested to predict house prices of different types of houses, using the dataset containing the features and house prices of each house. The dataset of residential homes in Lowa, Ames consists of 79 explanatory variables. The uploaded CSV file contains the generated model predictions.
